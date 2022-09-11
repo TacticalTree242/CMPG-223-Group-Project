@@ -68,7 +68,7 @@ namespace CMPG223_Assignment
                 this.Close();
             }
 
-            // Open the Client Form
+            // Open Client Form
             private void manageClientsToolStripMenuItem_Click(object sender, EventArgs e)
             {
                 ClientForm f1 = new ClientForm();
