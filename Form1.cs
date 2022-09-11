@@ -92,7 +92,7 @@ namespace CMPG223_Assignment
                 this.Close();
             }
 
-            //Close program
+            //Close programs
             private void btnBack_Click(object sender, EventArgs e)
             {
                 this.Close();
